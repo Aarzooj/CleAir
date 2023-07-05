@@ -10,7 +10,7 @@
 
 
 reference: https://nagasudhir.blogspot.com/2021/07/draw-markers-in-python-folium-maps.html
-Group members: Aarzoo (2022008), Anushka Srivastava (2022086), Vanshika Pal (2022560)
+
 '''
 
 import requests
